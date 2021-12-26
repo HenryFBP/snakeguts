@@ -1,0 +1,3 @@
+[submodule "samples/dvpwa"]
+	path = samples/dvpwa
+	url = https://github.com/HenryFBP/dvpwa
